@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+dist/
+.venv/
+venv/
+venv_linux/
+venv2/
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Log files
+*.log
+logs/
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db

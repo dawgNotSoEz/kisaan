@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+venv2/
+.venv/
+ENV/
+env/
+
+# Caches & temporary data
+cache/
+.streamlit/
+*.env
+.env*
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Audit & interaction logs
+logs/
+*.log
+venv/
+__pycache__/
+.pytest_cache/
+.coverage
+.env
+
+*.pyc
+*.pyo
+
+.streamlit/
+
+logs/
+
+dist/
+build/
+
+*.egg-info/
+
+.idea/
+.vscode/
