@@ -15,7 +15,6 @@ cffi==2.0.0
 charset-normalizer==3.4.7
 click==8.1.8
 colorama==0.4.6
-comtypes==1.4.16
 cryptography==49.0.0
 distro==1.9.0
 dnspython==2.8.0
@@ -81,14 +80,11 @@ PyMuPDF==1.27.2.3
 pyOpenSSL==26.3.0
 pypdf==6.13.2
 pypdfium2==5.9.0
-pypiwin32==223
 pytest==9.0.3
 pytest-mock==3.15.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-multipart==0.0.32
-pyttsx3==2.99
-pywin32==312
 PyYAML==6.0.3
 referencing==0.37.0
 regex==2026.5.9
